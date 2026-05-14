@@ -1,4 +1,4 @@
-# PADAS - Adopciones Cesde Analytics
+# PANDAS - Adopciones Cesde Analytics
 
 Dashboard de análisis de datos para el sistema de adopciones de mascotas.
 
